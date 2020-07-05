@@ -10,6 +10,7 @@
 - Good
 - Hol
 - Hi
+- excellent
 
 ## intent:goodbye
 - bye
@@ -22,6 +23,7 @@
 - Bye Bye
 - Bye
 - Thank You
+- thank you
 
 ## intent:affirm
 - yes
@@ -29,6 +31,7 @@
 - of course
 - that sounds good
 - correct
+- what is your name ?
 
 ## intent:deny
 - no
@@ -37,6 +40,7 @@
 - don't like that
 - no way
 - not really
+- restart the file
 
 ## intent:mood_great
 - perfect
@@ -65,3 +69,4 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+- talk to me
