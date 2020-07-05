@@ -42,3 +42,8 @@
     - utter_goodbye
 * goodbye
     - utter_goodbye
+
+## New Story
+
+* greet
+    - utter_greet
