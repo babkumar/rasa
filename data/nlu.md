@@ -5,12 +5,23 @@
 - good morning
 - good evening
 - hey there
+- check
+- help
+- Good
+- Hol
+- Hi
 
 ## intent:goodbye
 - bye
 - goodbye
 - see you around
 - see you later
+- check 123
+- are you a human ?
+- are you a bot ?
+- Bye Bye
+- Bye
+- Thank You
 
 ## intent:affirm
 - yes
